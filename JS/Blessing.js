@@ -24,6 +24,7 @@ $(window).on("load", function () {
         if ($(this).css("opacity") == 0) {
           $(this).fadeTo(500, 1);
         }
+//
       } else { //object goes out of view (scrolling up)
         if ($(this).css("opacity") == 1) {
           $(this).fadeTo(500, 0);
