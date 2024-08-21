@@ -1,33 +1,18 @@
-## Happy Birthday!!!
+# Secret-Birthday-Gift
 
-### Wish someone special happy birthday in a special way.
+Link to the website: https://focused-wescoff-b485a3.netlify.app/
 
-#### [See it Live](https://faahim.github.io/happy-birthday/)
+Birthday website! 🎁
 
-#### Update: Now you can customize all the texts without modifying the code!
+I made a Website for my girlfriend's birthday.
+Just a simple static website with 3 pages.
 
-On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
+FIRST PAGE - Login page, she had to gusse the password to be able to login. It's our anniversary - 4.3.2017 without the dots, only the numbers.
+My website dosen't have a server side, it's a very simple website and also the security, so you can see the password in the DevTools.
+The website didn't need a server side and I don't mind that anyone can see the password -> just revealed it... 😁
 
-I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
-You can create your very own happy-birthday page in a few easy steps:
+SECOND PAGE - Happy Birthday blessing with some photos and Lorem Ipsum text.
 
-* Fork the repository
-* Open `customize.json` and replace the content with your own
-* Turn on GitHub pages for your repository (Settings > Pages)
-* Share the URL you get at the above step with your friend
+THIRD PAGE - Simple cards page with photos and buttons that suposed to play some Audio but I removed it because it was personal.
 
-**You do not need to create Pull Request to this main repository to get it running.**
-
-I've created the JSON file (`customize.json`) for easy and quick customizability. It allows you the change all of the texts and the image used on the webpage without modifying the code. However, If you want to customize it further, leave the JSON fields empty and edit the HTML file directly. This is because the content in the JSON file overwrites the HTML.
-
-Please note that I've created this page in a hurry and it comes with no warranty.
-
-Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
-
-
-## Contributing
-
-I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
-If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
-
-Happy wishing! 🎉
+Enjoy! 
