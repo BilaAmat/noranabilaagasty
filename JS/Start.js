@@ -19,8 +19,6 @@ document.querySelector("button").addEventListener("click", function () {
       case 2:
         alert("kamu lupa kah sama tgl ultah?");
         break;
-      case 3:
-        alert("salaah password")
     }
 
   }
